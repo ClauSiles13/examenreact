@@ -4,7 +4,7 @@ const Fotos = () => {
   return (
     <div id='file'>
       <h1>Fotos</h1>
-      Página para Fotos...
+      Página para fotos...
       <p>Fotos 1</p>
       <p>Fotos 2</p>
       <p>Fotos 3</p>

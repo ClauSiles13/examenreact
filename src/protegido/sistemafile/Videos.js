@@ -4,7 +4,7 @@ const Videos = () => {
   return (
     <div id='file'>
       <h1>Videos</h1>
-      Página para Videos...
+      Página para videos...ZZZ
       <p>Video nro 1</p>
       <p>Video nro 2</p>
       <p>Video nro 3</p>

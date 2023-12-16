@@ -3,8 +3,8 @@ import React from 'react'
 const ListaDeCursos = () => {
   return (
     <div id="sis">
-      <h1>Lista De Cursos</h1>
-      Lista de Lista De Cursos...
+      <h1>ListaDeCursos</h1>
+      Lista de De Cursos...
       <p>Redes 1</p>
       <p>Redes 2</p>
       <p>Redes 3</p>

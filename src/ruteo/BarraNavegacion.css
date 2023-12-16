@@ -2,17 +2,17 @@ nav ul {display: inline; list-style: none; }
 nav li {padding-right: 10px;}
 #login, #menu {padding: 10px;}
 
-#login{ background: rgb(104, 236, 208); }
+#login{ background: lightcoral; }
 #login ul li{float: inline-end;}
 
-#menu{background: rgb(240, 158, 158)}
+#menu{background: darkkhaki}
 #menu ul li{float: inline-start;}
 
-#sis {background: rgb(147, 136, 223);}
+#sis {background: peachpuff;}
 
-#file {background: rgb(223, 90, 108)}  /* mediumorchid; darkgreen*/
+#file {background: cornflowerblue}  /* mediumorchid; darkgreen*/
 
-#public { background:  slateblue; }
+#public { background:  skyblue; }
 
 @media (max-width: 600px){
   #login, #menu{display: grid; }

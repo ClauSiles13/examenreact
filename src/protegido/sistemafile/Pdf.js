@@ -4,7 +4,7 @@ const Pdf = () => {
   return (
     <div>
       <h1>Pdf</h1>
-      Pagina de PDF
+      Pagina de Pdf
       <p>PDf nro 01</p>
       <p>PDf nro 02</p>
       <p>PDf nro 03</p>
